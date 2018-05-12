@@ -1,0 +1,28 @@
+_repo: Paper-Cutting-Machines--13-A-Primer-of-Information-about-Paper-and-Card-Trimmers-Hand-Lever-C__34774
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, Niel, Jr.
+    gutenberg_agent_id: '44256'
+    url: http://www.gutenberg.org/2009/agents/44256
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34774'
+  lccn: '19001213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Typographic technical series for apprentices, Part 1, No. 10
+subjects:
+- !lcc 'Z'
+- !lcsh 'Paper-cutting machines'
+title: "Paper-Cutting Machines\r\nA Primer of Information about Paper and Card Trimmers,\
+  \ Hand-Lever Cutters, Power Cutters and Other Automatic Machines for Cutting Paper"
+url: http://www.gutenberg.org/ebooks/34774
